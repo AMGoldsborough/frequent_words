@@ -1,0 +1,68 @@
+Input folder: /home/andrew/GIT/frequent_words/input_files
+
+Most common words and frequencies in:
+
+01 - QBF.txt:
+
+1) the - 6
+2) of - 4
+3) is - 3
+4) and - 3
+5) all - 2
+6) letters - 2
+7) alphabet - 2
+8) it - 2
+9) quick - 1
+10) brown - 1
+
+55789-0.txt:
+
+1) the - 248
+2) of - 184
+3) and - 154
+4) by - 132
+5) a - 129
+6) in - 124
+7) with - 105
+8) s - 103
+9) net - 94
+10) to - 93
+
+55790-0.txt:
+
+1) the - 933
+2) of - 478
+3) and - 469
+4) a - 451
+5) to - 390
+6) in - 288
+7) i - 177
+8) is - 173
+9) you - 170
+10) with - 147
+
+55800-0.txt:
+
+1) the - 4827
+2) of - 2750
+3) and - 1979
+4) in - 1260
+5) to - 997
+6) a - 835
+7) is - 561
+8) new - 470
+9) are - 417
+10) mexico - 402
+
+over all files in /home/andrew/GIT/frequent_words/input_files:
+
+1) the - 6014
+2) of - 3416
+3) and - 2605
+4) in - 1673
+5) to - 1481
+6) a - 1416
+7) is - 762
+8) by - 590
+9) with - 542
+10) are - 534
